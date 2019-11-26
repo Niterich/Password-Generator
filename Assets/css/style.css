@@ -1,0 +1,13 @@
+textarea {
+    text-align: center;
+    border: 1px dashed grey;
+    background: url(../images/playstation-pattern.png);
+    font-family: 'Roboto Mono', monospace;
+    outline: none;
+    resize: none;
+}
+
+h1  {
+    font-family: 'Indie Flower', cursive;
+}
+

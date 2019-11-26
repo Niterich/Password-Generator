@@ -117,3 +117,16 @@ function createMasterCharacterArray (){
     // Paste random password to the text input.
     document.getElementById("pass").value = randomPassword;
 };
+
+//Function to clear the text field
+function clearPassword() {
+    document.getElementById("pass").value = "";
+};
+
+//Function to copy to clipboard
+function copy() {
+    var copyText = document.querySelector("#pass");
+    copyText.select();
+    document.execCommand("copy");
+    alert("Password copied to clipboard!")
+}
