@@ -1,4 +1,4 @@
-# password-gen
+# Password-Generator
 A secure password generator!
 
 <strong>Description:</strong>
