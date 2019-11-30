@@ -1,20 +1,35 @@
 textarea {
     text-align: center;
-    border: 1px dashed grey;
+    border: 1px dashed #282828;
+    /* background-color: floralwhite; */
     background: url(../images/playstation-pattern.png);
     font-family: 'Roboto Mono', monospace;
+    /* font-family: 'Tomorrow', sans-serif; */
     outline: none;
     resize: none;
 }
-
-h1  {
-    font-family: 'Indie Flower', cursive;
-}
-/* 
-#color  {
-    background-color: rgb(108, 175, 206);
-}
-
 body {
-    background-color: darkslateblue;
-} */
+    background-color: #0c0032;
+}
+#color {
+    background: rgb(3,0,50);
+    background: radial-gradient(circle, rgba(3,0,50,1) 0%, rgba(36,0,144,1) 50%, rgba(3,0,50,1) 100%);
+}
+h1  {
+    /* font-family: 'Indie Flower', cursive; */
+    font-family: 'Tomorrow', sans-serif;
+    font-size: 2.2em;
+    color: floralwhite;
+}
+
+#genStart  {
+    background-color:#240090;
+    font-family: 'Tomorrow', sans-serif;
+    border: 1px solid white;
+}
+
+#copyToClipboard {
+    background-color: #282828;
+    font-family: 'Tomorrow', sans-serif;
+    border: 1px solid white;
+}
