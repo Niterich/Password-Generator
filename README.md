@@ -2,6 +2,7 @@
 A secure password generator!
 
 <strong>Description:</strong>
+
 Takes user input to create a random secure password. Allows a feature to copy directly to the clipboard.
 
 Link to github repo: https://github.com/Niterich/password-gen
