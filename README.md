@@ -1,5 +1,7 @@
 # password-gen
-random password generator
+A secure password generator!
+
+Takes user input to create a random secure password.
 
 Link to github repo: https://github.com/Niterich/password-gen
 
