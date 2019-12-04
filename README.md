@@ -1,7 +1,7 @@
 # Password-Generator
 A secure password generator!
 
-Technologies used: JavaScript, Bootstrap, CSS, HTML
+Technologies used: JavaScript, Bootstrap
 
 <strong>Description:</strong>
 
