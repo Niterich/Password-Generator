@@ -1,6 +1,8 @@
 # Password-Generator
 A secure password generator!
 
+Technologies used: JavaScript, Bootstrap, CSS, HTML
+
 <strong>Description:</strong>
 
 Takes user input to create a random secure password. Allows a feature to copy directly to the clipboard.
