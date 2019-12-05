@@ -1,9 +1,9 @@
 # Password-Generator
 A secure password generator!
 
-Technologies used: JavaScript, Bootstrap
-
 Deployed: https://niterich.github.io/Password-Generator/
+
+Technologies used: JavaScript, Bootstrap
 
 <strong>Description:</strong>
 
