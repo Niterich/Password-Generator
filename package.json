@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Niterich/password-gen/issues"
   },
-  "homepage": "https://github.com/Niterich/password-gen#readme"
+  "homepage": "https://github.com/Niterich/password-gen#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
